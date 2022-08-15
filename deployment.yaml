@@ -1,0 +1,36 @@
+apiVersion: v1
+kind: Service
+metadata:
+  labels:
+    app: dsp-scrapper
+  name: dsp-scrapper-service
+spec:
+  type: LoadBalancer
+  ports:
+    - name: "80"
+      port: 80
+      protocol: TCP
+      targetPort: 5003
+  selector:
+    app: dsp-scrapper-app
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: dsp-scrapper-app
+spec:
+  selector:
+    matchLabels:
+      app: dsp-scrapper-app
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        app: dsp-scrapper-app
+    spec:
+      containers:
+        - name: dsp-scrapper-app
+          image: mediapal254/dsp-scrapper:latest
+          imagePullPolicy: Always
+          ports:
+            - containerPort: 80
