@@ -1,5 +1,6 @@
 import DataCapsule from "../models/data.js"
 import fs from "fs";
+import kenya_data from "./../assets/kenya_data.js";
 
 //Scrapper Imports
 import puppeteer from "puppeteer";
@@ -255,5 +256,8 @@ export const createKenyaData = async (req, res) => {
     } catch (error) {
         res.status(500).json({ message: error.message })
     }
+}
 
+export const createForecastKenya = async (req, res) => {
+    res.json(kenya_data)
 }
