@@ -18,8 +18,25 @@ export const getInternationalData = async (req, res) => {
 }
 
 export const getKenyaData = async (req, res) => {
+    const page = parseInt(req.query.page)
+    const per_page = parseInt(req.query.per_page)
+
+    const startIndex = (page - 1) * per_page;
+    const endIndex = page * per_page;
+
     try {
-        const int_data = await DataCapsule.findOne({ tag: "kenya" })
+        const int_data = await DataCapsule.findOne({ tag: "kenya" }).then((response) => {
+            //Paginate
+            return {
+                "_id": response._id,
+                "created_at": response.created_at,
+                "tag": response.tag,
+                "discovery_data": response.discovery_data.slice(startIndex, endIndex),
+                "next_page": page + 1,
+                "per_page": per_page,
+                "previous_page": page - 1,
+            }
+        })
         res.status(200).json(int_data);
     } catch (error) {
         res.status(404).json({ message: error.message })
@@ -258,6 +275,6 @@ export const createKenyaData = async (req, res) => {
     }
 }
 
-export const createForecastKenya = async (req, res) => {
+export const getForecastKenya = async (req, res) => {
     res.json(kenya_data)
 }
