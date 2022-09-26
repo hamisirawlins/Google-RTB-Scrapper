@@ -16,7 +16,7 @@ app.use(cors());
 app.use('/discovery', discoveryRoutes);
 
 //Atlas Connection Setup
-const CONNECTION_URL = `mongodb+srv://${process.env.MONGODBUSER}:${process.env.MONGODBPASS}@cluster0.s9wsujz.mongodb.net/?retryWrites=true&w=majority`;
+const CONNECTION_URL = `mongodb+srv://${process.env.MONGODBUSER}:${process.env.MONGODBPASS}@cluster0.suvs2zh.mongodb.net/?retryWrites=true&w=majority`;
 const PORT = process.env.PORT || 5003;
 
 //Mongoose Connect
