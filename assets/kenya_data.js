@@ -4177,10 +4177,10 @@ export default {
             ]
         }
     ],
-    "forecast": {
+    forecast: {
         "metrics": {
-            "impressions": "3674000000",
-            "uniqueUsers": "37980000"
+            "impressions": "4008000000",
+            "uniqueUsers": "39800000"
         },
         "breakdowns": [
             {
@@ -4189,7 +4189,7 @@ export default {
                     {
                         "id": "2404",
                         "name": "Kenya",
-                        "impressions": "3674000000"
+                        "impressions": "4008000000"
                     }
                 ]
             },
@@ -4199,12 +4199,12 @@ export default {
                     {
                         "id": "1",
                         "name": "Male",
-                        "impressions": "2320000000"
+                        "impressions": "2549000000"
                     },
                     {
                         "id": "0",
                         "name": "Female",
-                        "impressions": "883600000"
+                        "impressions": "888500000"
                     }
                 ]
             },
@@ -4214,32 +4214,32 @@ export default {
                     {
                         "id": "2",
                         "name": "25-34",
-                        "impressions": "1452000000"
-                    },
-                    {
-                        "id": "1",
-                        "name": "18-24",
-                        "impressions": "651200000"
+                        "impressions": "1725000000"
                     },
                     {
                         "id": "3",
                         "name": "35-44",
-                        "impressions": "553900000"
+                        "impressions": "698300000"
                     },
                     {
-                        "id": "4",
-                        "name": "45-54",
-                        "impressions": "344000000"
+                        "id": "1",
+                        "name": "18-24",
+                        "impressions": "615200000"
                     },
                     {
                         "id": "5",
                         "name": "55-64",
-                        "impressions": "182300000"
+                        "impressions": "279300000"
+                    },
+                    {
+                        "id": "4",
+                        "name": "45-54",
+                        "impressions": "240800000"
                     },
                     {
                         "id": "6",
                         "name": "65+",
-                        "impressions": "132400000"
+                        "impressions": "33500000"
                     }
                 ]
             },
@@ -4249,102 +4249,102 @@ export default {
                     {
                         "id": "native",
                         "name": "native",
-                        "impressions": "1549000000"
+                        "impressions": "1560000000"
                     },
                     {
                         "id": "320x50",
                         "name": "320x50",
-                        "impressions": "1057000000"
-                    },
-                    {
-                        "id": "300x50",
-                        "name": "300x50",
-                        "impressions": "825000000"
+                        "impressions": "1048000000"
                     },
                     {
                         "id": "300x250",
                         "name": "300x250",
-                        "impressions": "786000000"
+                        "impressions": "890600000"
                     },
                     {
-                        "id": "250x250",
-                        "name": "250x250",
-                        "impressions": "468400000"
+                        "id": "300x50",
+                        "name": "300x50",
+                        "impressions": "665400000"
                     },
                     {
                         "id": "interstitial",
                         "name": "interstitial",
-                        "impressions": "421100000"
+                        "impressions": "613600000"
+                    },
+                    {
+                        "id": "250x250",
+                        "name": "250x250",
+                        "impressions": "535200000"
                     },
                     {
                         "id": "336x280",
                         "name": "336x280",
-                        "impressions": "329200000"
+                        "impressions": "434600000"
                     },
                     {
                         "id": "234x60",
                         "name": "234x60",
-                        "impressions": "272200000"
-                    },
-                    {
-                        "id": "200x200",
-                        "name": "200x200",
-                        "impressions": "246200000"
+                        "impressions": "278100000"
                     },
                     {
                         "id": "300x100",
                         "name": "300x100",
-                        "impressions": "240400000"
+                        "impressions": "276400000"
+                    },
+                    {
+                        "id": "200x200",
+                        "name": "200x200",
+                        "impressions": "262100000"
                     },
                     {
                         "id": "320x100",
                         "name": "320x100",
-                        "impressions": "215100000"
-                    },
-                    {
-                        "id": "180x150",
-                        "name": "180x150",
-                        "impressions": "165100000"
+                        "impressions": "258600000"
                     },
                     {
                         "id": "320x480",
                         "name": "320x480",
-                        "impressions": "116300000"
+                        "impressions": "192700000"
                     },
                     {
                         "id": "120x240",
                         "name": "120x240",
-                        "impressions": "112000000"
+                        "impressions": "186300000"
                     },
                     {
                         "id": "300x600",
                         "name": "300x600",
-                        "impressions": "110100000"
+                        "impressions": "175600000"
                     },
                     {
-                        "id": "220x90",
-                        "name": "220x90",
-                        "impressions": "103100000"
+                        "id": "180x150",
+                        "name": "180x150",
+                        "impressions": "170500000"
                     },
                     {
-                        "id": "240x133",
-                        "name": "240x133",
-                        "impressions": "98060000"
+                        "id": "320x180",
+                        "name": "320x180",
+                        "impressions": "164100000"
                     },
                     {
                         "id": "160x600",
                         "name": "160x600",
-                        "impressions": "88350000"
+                        "impressions": "142300000"
                     },
                     {
-                        "id": "360x56",
-                        "name": "360x56",
-                        "impressions": "85330000"
+                        "id": "250x360",
+                        "name": "250x360",
+                        "impressions": "130900000"
                     },
                     {
-                        "id": "216x54",
-                        "name": "216x54",
-                        "impressions": "81570000"
+                        "id": "220x90",
+                        "name": "220x90",
+                        "impressions": "126400000"
+                    },
+                    {
+                        "id": "240x400",
+                        "name": "240x400",
+                        "impressions": "122400000"
                     }
                 ]
             },
@@ -4354,97 +4354,97 @@ export default {
                     {
                         "id": "13",
                         "name": "Internet & Telecom",
-                        "impressions": "2759000000"
+                        "impressions": "2865000000"
                     },
                     {
                         "id": "16",
                         "name": "News",
-                        "impressions": "1359000000"
+                        "impressions": "1539000000"
                     },
                     {
                         "id": "5",
                         "name": "Computers & Electronics",
-                        "impressions": "1080000000"
+                        "impressions": "1104000000"
                     },
                     {
                         "id": "3",
                         "name": "Arts & Entertainment",
-                        "impressions": "830700000"
-                    },
-                    {
-                        "id": "8",
-                        "name": "Games",
-                        "impressions": "631700000"
-                    },
-                    {
-                        "id": "20",
-                        "name": "Sports",
-                        "impressions": "562700000"
+                        "impressions": "886000000"
                     },
                     {
                         "id": "14",
                         "name": "People & Society",
-                        "impressions": "475400000"
+                        "impressions": "745400000"
+                    },
+                    {
+                        "id": "8",
+                        "name": "Games",
+                        "impressions": "725000000"
+                    },
+                    {
+                        "id": "20",
+                        "name": "Sports",
+                        "impressions": "622900000"
                     },
                     {
                         "id": "19",
                         "name": "Law & Government",
-                        "impressions": "335600000"
+                        "impressions": "512300000"
                     },
                     {
                         "id": "533",
                         "name": "Reference",
-                        "impressions": "258400000"
-                    },
-                    {
-                        "id": "299",
-                        "name": "Online Communities",
-                        "impressions": "188700000"
+                        "impressions": "376500000"
                     },
                     {
                         "id": "12",
                         "name": "Business & Industrial",
-                        "impressions": "183000000"
+                        "impressions": "264100000"
                     },
                     {
                         "id": "22",
                         "name": "Books & Literature",
-                        "impressions": "129400000"
+                        "impressions": "229000000"
+                    },
+                    {
+                        "id": "299",
+                        "name": "Online Communities",
+                        "impressions": "195900000"
                     },
                     {
                         "id": "958",
                         "name": "Jobs & Education",
-                        "impressions": "122600000"
+                        "impressions": "107500000"
                     },
                     {
                         "id": "65",
                         "name": "Hobbies & Leisure",
-                        "impressions": "96280000"
-                    },
-                    {
-                        "id": "44",
-                        "name": "Beauty & Fitness",
-                        "impressions": "86650000"
-                    },
-                    {
-                        "id": "18",
-                        "name": "Shopping",
-                        "impressions": "82370000"
+                        "impressions": "106500000"
                     },
                     {
                         "id": "7",
                         "name": "Finance",
-                        "impressions": "78430000"
+                        "impressions": "102900000"
+                    },
+                    {
+                        "id": "18",
+                        "name": "Shopping",
+                        "impressions": "91030000"
                     },
                     {
                         "id": "45",
                         "name": "Health",
-                        "impressions": "70570000"
+                        "impressions": "85240000"
+                    },
+                    {
+                        "id": "44",
+                        "name": "Beauty & Fitness",
+                        "impressions": "81720000"
                     },
                     {
                         "id": "174",
                         "name": "Science",
-                        "impressions": "53660000"
+                        "impressions": "56170000"
                     }
                 ]
             },
@@ -4454,22 +4454,22 @@ export default {
                     {
                         "id": "5",
                         "name": "Mobile",
-                        "impressions": "3382000000"
+                        "impressions": "3597000000"
                     },
                     {
                         "id": "3",
                         "name": "Desktop",
-                        "impressions": "190000000"
+                        "impressions": "274000000"
                     },
                     {
                         "id": "4",
                         "name": "Tablet",
-                        "impressions": "99250000"
+                        "impressions": "132900000"
                     },
                     {
                         "id": "6",
                         "name": "Connected TV",
-                        "impressions": "2823000"
+                        "impressions": "3498000"
                     }
                 ]
             },
@@ -4479,15 +4479,15 @@ export default {
                     {
                         "id": "1",
                         "name": "Display",
-                        "impressions": "3239000000"
+                        "impressions": "3261000000"
                     },
                     {
                         "id": "2",
                         "name": "Video",
-                        "impressions": "802000000"
+                        "impressions": "1127000000"
                     }
                 ]
             }
         ]
-    },
+    }
 }
