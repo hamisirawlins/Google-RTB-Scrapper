@@ -4179,7 +4179,7 @@ export default {
   forecast: {
     metrics: {
       impressions: "3985000000",
-      uniqueUsers: "38420000",
+      uniqueUsers: "39190000",
     },
     breakdowns: [
       {
@@ -4817,32 +4817,1730 @@ export default {
           {
             id: "2",
             name: "25-34",
-            impressions: "1680000000",
+            impressions: "1636000000",
+            uniqueUsers: "15620000",
+            breakdowns: [
+              {
+                filterType: "COUNTRY",
+                slices: [
+                  {
+                    id: "2404",
+                    name: "Kenya",
+                    impressions: "1636000000",
+                  },
+                ],
+              },
+              {
+                filterType: "GENDER",
+                slices: [
+                  {
+                    id: "1",
+                    name: "Male",
+                    impressions: "1112000000",
+                  },
+                  {
+                    id: "0",
+                    name: "Female",
+                    impressions: "422200000",
+                  },
+                ],
+              },
+              {
+                filterType: "AGE",
+                slices: [
+                  {
+                    id: "2",
+                    name: "25-34",
+                    impressions: "1636000000",
+                  },
+                ],
+              },
+              {
+                filterType: "INVENTORY_SIZE",
+                slices: [
+                  {
+                    id: "native",
+                    name: "native",
+                    impressions: "517500000",
+                  },
+                  {
+                    id: "320x50",
+                    name: "320x50",
+                    impressions: "487600000",
+                  },
+                  {
+                    id: "300x250",
+                    name: "300x250",
+                    impressions: "377900000",
+                  },
+                  {
+                    id: "interstitial",
+                    name: "interstitial",
+                    impressions: "290900000",
+                  },
+                  {
+                    id: "300x50",
+                    name: "300x50",
+                    impressions: "240800000",
+                  },
+                  {
+                    id: "250x250",
+                    name: "250x250",
+                    impressions: "236300000",
+                  },
+                  {
+                    id: "336x280",
+                    name: "336x280",
+                    impressions: "204100000",
+                  },
+                  {
+                    id: "320x480",
+                    name: "320x480",
+                    impressions: "126700000",
+                  },
+                  {
+                    id: "300x600",
+                    name: "300x600",
+                    impressions: "115000000",
+                  },
+                  {
+                    id: "250x360",
+                    name: "250x360",
+                    impressions: "105700000",
+                  },
+                  {
+                    id: "120x240",
+                    name: "120x240",
+                    impressions: "105200000",
+                  },
+                  {
+                    id: "160x600",
+                    name: "160x600",
+                    impressions: "103500000",
+                  },
+                  {
+                    id: "240x400",
+                    name: "240x400",
+                    impressions: "102700000",
+                  },
+                  {
+                    id: "200x446",
+                    name: "200x446",
+                    impressions: "101900000",
+                  },
+                  {
+                    id: "200x200",
+                    name: "200x200",
+                    impressions: "97000000",
+                  },
+                  {
+                    id: "320x100",
+                    name: "320x100",
+                    impressions: "95800000",
+                  },
+                  {
+                    id: "234x60",
+                    name: "234x60",
+                    impressions: "93550000",
+                  },
+                  {
+                    id: "300x100",
+                    name: "300x100",
+                    impressions: "90580000",
+                  },
+                  {
+                    id: "120x600",
+                    name: "120x600",
+                    impressions: "82020000",
+                  },
+                  {
+                    id: "320x180",
+                    name: "320x180",
+                    impressions: "76980000",
+                  },
+                ],
+              },
+              {
+                filterType: "CONTENT_VERTICAL",
+                slices: [
+                  {
+                    id: "13",
+                    name: "Internet & Telecom",
+                    impressions: "1189000000",
+                  },
+                  {
+                    id: "16",
+                    name: "News",
+                    impressions: "740800000",
+                  },
+                  {
+                    id: "20",
+                    name: "Sports",
+                    impressions: "407800000",
+                  },
+                  {
+                    id: "5",
+                    name: "Computers & Electronics",
+                    impressions: "380400000",
+                  },
+                  {
+                    id: "3",
+                    name: "Arts & Entertainment",
+                    impressions: "325400000",
+                  },
+                  {
+                    id: "8",
+                    name: "Games",
+                    impressions: "287500000",
+                  },
+                  {
+                    id: "14",
+                    name: "People & Society",
+                    impressions: "236500000",
+                  },
+                  {
+                    id: "19",
+                    name: "Law & Government",
+                    impressions: "180500000",
+                  },
+                  {
+                    id: "533",
+                    name: "Reference",
+                    impressions: "118000000",
+                  },
+                  {
+                    id: "12",
+                    name: "Business & Industrial",
+                    impressions: "109200000",
+                  },
+                  {
+                    id: "299",
+                    name: "Online Communities",
+                    impressions: "86500000",
+                  },
+                  {
+                    id: "22",
+                    name: "Books & Literature",
+                    impressions: "63310000",
+                  },
+                  {
+                    id: "7",
+                    name: "Finance",
+                    impressions: "50460000",
+                  },
+                  {
+                    id: "958",
+                    name: "Jobs & Education",
+                    impressions: "45800000",
+                  },
+                  {
+                    id: "65",
+                    name: "Hobbies & Leisure",
+                    impressions: "41810000",
+                  },
+                  {
+                    id: "45",
+                    name: "Health",
+                    impressions: "41040000",
+                  },
+                  {
+                    id: "18",
+                    name: "Shopping",
+                    impressions: "36070000",
+                  },
+                  {
+                    id: "44",
+                    name: "Beauty & Fitness",
+                    impressions: "33300000",
+                  },
+                  {
+                    id: "174",
+                    name: "Science",
+                    impressions: "20660000",
+                  },
+                ],
+              },
+              {
+                filterType: "DEVICE",
+                slices: [
+                  {
+                    id: "5",
+                    name: "Mobile",
+                    impressions: "1492000000",
+                  },
+                  {
+                    id: "3",
+                    name: "Desktop",
+                    impressions: "109200000",
+                  },
+                  {
+                    id: "4",
+                    name: "Tablet",
+                    impressions: "34150000",
+                  },
+                  {
+                    id: "6",
+                    name: "Connected TV",
+                    impressions: "1142000",
+                  },
+                ],
+              },
+              {
+                filterType: "REQUEST_FORMAT",
+                slices: [
+                  {
+                    id: "1",
+                    name: "Display",
+                    impressions: "1304000000",
+                  },
+                  {
+                    id: "2",
+                    name: "Video",
+                    impressions: "461200000",
+                  },
+                ],
+              },
+            ],
           },
           {
             id: "3",
             name: "35-44",
-            impressions: "737400000",
+            impressions: "763400000",
+            uniqueUsers: "8161000",
+            breakdowns: [
+              {
+                filterType: "COUNTRY",
+                slices: [
+                  {
+                    id: "2404",
+                    name: "Kenya",
+                    impressions: "763400000",
+                  },
+                ],
+              },
+              {
+                filterType: "GENDER",
+                slices: [
+                  {
+                    id: "1",
+                    name: "Male",
+                    impressions: "559600000",
+                  },
+                  {
+                    id: "0",
+                    name: "Female",
+                    impressions: "195700000",
+                  },
+                ],
+              },
+              {
+                filterType: "AGE",
+                slices: [
+                  {
+                    id: "3",
+                    name: "35-44",
+                    impressions: "763400000",
+                  },
+                ],
+              },
+              {
+                filterType: "INVENTORY_SIZE",
+                slices: [
+                  {
+                    id: "native",
+                    name: "native",
+                    impressions: "343900000",
+                  },
+                  {
+                    id: "300x250",
+                    name: "300x250",
+                    impressions: "129500000",
+                  },
+                  {
+                    id: "320x50",
+                    name: "320x50",
+                    impressions: "125500000",
+                  },
+                  {
+                    id: "300x50",
+                    name: "300x50",
+                    impressions: "106700000",
+                  },
+                  {
+                    id: "250x250",
+                    name: "250x250",
+                    impressions: "79490000",
+                  },
+                  {
+                    id: "320x180",
+                    name: "320x180",
+                    impressions: "78300000",
+                  },
+                  {
+                    id: "interstitial",
+                    name: "interstitial",
+                    impressions: "64870000",
+                  },
+                  {
+                    id: "336x280",
+                    name: "336x280",
+                    impressions: "60190000",
+                  },
+                  {
+                    id: "300x100",
+                    name: "300x100",
+                    impressions: "49340000",
+                  },
+                  {
+                    id: "234x60",
+                    name: "234x60",
+                    impressions: "48950000",
+                  },
+                  {
+                    id: "464x261",
+                    name: "464x261",
+                    impressions: "47560000",
+                  },
+                  {
+                    id: "320x100",
+                    name: "320x100",
+                    impressions: "43480000",
+                  },
+                  {
+                    id: "200x200",
+                    name: "200x200",
+                    impressions: "40710000",
+                  },
+                  {
+                    id: "180x150",
+                    name: "180x150",
+                    impressions: "29910000",
+                  },
+                  {
+                    id: "728x90",
+                    name: "728x90",
+                    impressions: "28520000",
+                  },
+                  {
+                    id: "220x90",
+                    name: "220x90",
+                    impressions: "27570000",
+                  },
+                  {
+                    id: "240x133",
+                    name: "240x133",
+                    impressions: "22840000",
+                  },
+                  {
+                    id: "320x480",
+                    name: "320x480",
+                    impressions: "22660000",
+                  },
+                  {
+                    id: "120x240",
+                    name: "120x240",
+                    impressions: "21330000",
+                  },
+                  {
+                    id: "300x600",
+                    name: "300x600",
+                    impressions: "20190000",
+                  },
+                ],
+              },
+              {
+                filterType: "CONTENT_VERTICAL",
+                slices: [
+                  {
+                    id: "13",
+                    name: "Internet & Telecom",
+                    impressions: "454700000",
+                  },
+                  {
+                    id: "16",
+                    name: "News",
+                    impressions: "420400000",
+                  },
+                  {
+                    id: "19",
+                    name: "Law & Government",
+                    impressions: "220800000",
+                  },
+                  {
+                    id: "14",
+                    name: "People & Society",
+                    impressions: "217300000",
+                  },
+                  {
+                    id: "5",
+                    name: "Computers & Electronics",
+                    impressions: "206400000",
+                  },
+                  {
+                    id: "533",
+                    name: "Reference",
+                    impressions: "123700000",
+                  },
+                  {
+                    id: "3",
+                    name: "Arts & Entertainment",
+                    impressions: "113500000",
+                  },
+                  {
+                    id: "12",
+                    name: "Business & Industrial",
+                    impressions: "104500000",
+                  },
+                  {
+                    id: "8",
+                    name: "Games",
+                    impressions: "98190000",
+                  },
+                  {
+                    id: "7",
+                    name: "Finance",
+                    impressions: "50290000",
+                  },
+                  {
+                    id: "20",
+                    name: "Sports",
+                    impressions: "43640000",
+                  },
+                  {
+                    id: "29",
+                    name: "Real Estate",
+                    impressions: "20530000",
+                  },
+                  {
+                    id: "299",
+                    name: "Online Communities",
+                    impressions: "19910000",
+                  },
+                  {
+                    id: "44",
+                    name: "Beauty & Fitness",
+                    impressions: "16520000",
+                  },
+                  {
+                    id: "65",
+                    name: "Hobbies & Leisure",
+                    impressions: "16090000",
+                  },
+                  {
+                    id: "45",
+                    name: "Health",
+                    impressions: "13740000",
+                  },
+                  {
+                    id: "22",
+                    name: "Books & Literature",
+                    impressions: "12120000",
+                  },
+                  {
+                    id: "958",
+                    name: "Jobs & Education",
+                    impressions: "11650000",
+                  },
+                  {
+                    id: "18",
+                    name: "Shopping",
+                    impressions: "10080000",
+                  },
+                ],
+              },
+              {
+                filterType: "DEVICE",
+                slices: [
+                  {
+                    id: "5",
+                    name: "Mobile",
+                    impressions: "624900000",
+                  },
+                  {
+                    id: "3",
+                    name: "Desktop",
+                    impressions: "106900000",
+                  },
+                  {
+                    id: "4",
+                    name: "Tablet",
+                    impressions: "31310000",
+                  },
+                  {
+                    id: "6",
+                    name: "Connected TV",
+                    impressions: "338000",
+                  },
+                ],
+              },
+              {
+                filterType: "REQUEST_FORMAT",
+                slices: [
+                  {
+                    id: "1",
+                    name: "Display",
+                    impressions: "540600000",
+                  },
+                  {
+                    id: "2",
+                    name: "Video",
+                    impressions: "305600000",
+                  },
+                ],
+              },
+            ],
           },
           {
             id: "1",
             name: "18-24",
-            impressions: "595000000",
+            impressions: "593700000",
+            uniqueUsers: "10400000",
+            breakdowns: [
+              {
+                filterType: "COUNTRY",
+                slices: [
+                  {
+                    id: "2404",
+                    name: "Kenya",
+                    impressions: "593700000",
+                  },
+                ],
+              },
+              {
+                filterType: "GENDER",
+                slices: [
+                  {
+                    id: "1",
+                    name: "Male",
+                    impressions: "358100000",
+                  },
+                  {
+                    id: "0",
+                    name: "Female",
+                    impressions: "175800000",
+                  },
+                ],
+              },
+              {
+                filterType: "AGE",
+                slices: [
+                  {
+                    id: "1",
+                    name: "18-24",
+                    impressions: "593700000",
+                  },
+                ],
+              },
+              {
+                filterType: "INVENTORY_SIZE",
+                slices: [
+                  {
+                    id: "native",
+                    name: "native",
+                    impressions: "227000000",
+                  },
+                  {
+                    id: "300x250",
+                    name: "300x250",
+                    impressions: "144000000",
+                  },
+                  {
+                    id: "320x50",
+                    name: "320x50",
+                    impressions: "99560000",
+                  },
+                  {
+                    id: "250x250",
+                    name: "250x250",
+                    impressions: "93180000",
+                  },
+                  {
+                    id: "interstitial",
+                    name: "interstitial",
+                    impressions: "92200000",
+                  },
+                  {
+                    id: "300x50",
+                    name: "300x50",
+                    impressions: "84090000",
+                  },
+                  {
+                    id: "336x280",
+                    name: "336x280",
+                    impressions: "75180000",
+                  },
+                  {
+                    id: "234x60",
+                    name: "234x60",
+                    impressions: "45990000",
+                  },
+                  {
+                    id: "200x200",
+                    name: "200x200",
+                    impressions: "45010000",
+                  },
+                  {
+                    id: "400x333",
+                    name: "400x333",
+                    impressions: "29280000",
+                  },
+                  {
+                    id: "180x150",
+                    name: "180x150",
+                    impressions: "25430000",
+                  },
+                  {
+                    id: "300x100",
+                    name: "300x100",
+                    impressions: "23770000",
+                  },
+                  {
+                    id: "320x100",
+                    name: "320x100",
+                    impressions: "20870000",
+                  },
+                  {
+                    id: "320x480",
+                    name: "320x480",
+                    impressions: "19790000",
+                  },
+                  {
+                    id: "300x600",
+                    name: "300x600",
+                    impressions: "19200000",
+                  },
+                  {
+                    id: "120x240",
+                    name: "120x240",
+                    impressions: "17000000",
+                  },
+                  {
+                    id: "360x56",
+                    name: "360x56",
+                    impressions: "15880000",
+                  },
+                  {
+                    id: "160x600",
+                    name: "160x600",
+                    impressions: "15350000",
+                  },
+                  {
+                    id: "220x90",
+                    name: "220x90",
+                    impressions: "13850000",
+                  },
+                  {
+                    id: "216x54",
+                    name: "216x54",
+                    impressions: "13390000",
+                  },
+                ],
+              },
+              {
+                filterType: "CONTENT_VERTICAL",
+                slices: [
+                  {
+                    id: "13",
+                    name: "Internet & Telecom",
+                    impressions: "413200000",
+                  },
+                  {
+                    id: "5",
+                    name: "Computers & Electronics",
+                    impressions: "232700000",
+                  },
+                  {
+                    id: "3",
+                    name: "Arts & Entertainment",
+                    impressions: "214200000",
+                  },
+                  {
+                    id: "8",
+                    name: "Games",
+                    impressions: "131700000",
+                  },
+                  {
+                    id: "16",
+                    name: "News",
+                    impressions: "107300000",
+                  },
+                  {
+                    id: "20",
+                    name: "Sports",
+                    impressions: "68460000",
+                  },
+                  {
+                    id: "14",
+                    name: "People & Society",
+                    impressions: "61680000",
+                  },
+                  {
+                    id: "533",
+                    name: "Reference",
+                    impressions: "57230000",
+                  },
+                  {
+                    id: "299",
+                    name: "Online Communities",
+                    impressions: "51460000",
+                  },
+                  {
+                    id: "22",
+                    name: "Books & Literature",
+                    impressions: "45130000",
+                  },
+                  {
+                    id: "12",
+                    name: "Business & Industrial",
+                    impressions: "35220000",
+                  },
+                  {
+                    id: "958",
+                    name: "Jobs & Education",
+                    impressions: "34580000",
+                  },
+                  {
+                    id: "19",
+                    name: "Law & Government",
+                    impressions: "30290000",
+                  },
+                  {
+                    id: "18",
+                    name: "Shopping",
+                    impressions: "28170000",
+                  },
+                  {
+                    id: "65",
+                    name: "Hobbies & Leisure",
+                    impressions: "27220000",
+                  },
+                  {
+                    id: "174",
+                    name: "Science",
+                    impressions: "19940000",
+                  },
+                  {
+                    id: "45",
+                    name: "Health",
+                    impressions: "16270000",
+                  },
+                  {
+                    id: "7",
+                    name: "Finance",
+                    impressions: "14930000",
+                  },
+                  {
+                    id: "44",
+                    name: "Beauty & Fitness",
+                    impressions: "6313000",
+                  },
+                ],
+              },
+              {
+                filterType: "DEVICE",
+                slices: [
+                  {
+                    id: "5",
+                    name: "Mobile",
+                    impressions: "551000000",
+                  },
+                  {
+                    id: "3",
+                    name: "Desktop",
+                    impressions: "35280000",
+                  },
+                  {
+                    id: "4",
+                    name: "Tablet",
+                    impressions: "6931000",
+                  },
+                  {
+                    id: "6",
+                    name: "Connected TV",
+                    impressions: "537000",
+                  },
+                ],
+              },
+              {
+                filterType: "REQUEST_FORMAT",
+                slices: [
+                  {
+                    id: "1",
+                    name: "Display",
+                    impressions: "490800000",
+                  },
+                  {
+                    id: "2",
+                    name: "Video",
+                    impressions: "164300000",
+                  },
+                ],
+              },
+            ],
           },
           {
             id: "4",
             name: "45-54",
-            impressions: "303300000",
+            impressions: "302900000",
+            uniqueUsers: "5205000",
+            breakdowns: [
+              {
+                filterType: "COUNTRY",
+                slices: [
+                  {
+                    id: "2404",
+                    name: "Kenya",
+                    impressions: "302900000",
+                  },
+                ],
+              },
+              {
+                filterType: "GENDER",
+                slices: [
+                  {
+                    id: "1",
+                    name: "Male",
+                    impressions: "266400000",
+                  },
+                  {
+                    id: "0",
+                    name: "Female",
+                    impressions: "35570000",
+                  },
+                ],
+              },
+              {
+                filterType: "AGE",
+                slices: [
+                  {
+                    id: "4",
+                    name: "45-54",
+                    impressions: "302900000",
+                  },
+                ],
+              },
+              {
+                filterType: "INVENTORY_SIZE",
+                slices: [
+                  {
+                    id: "native",
+                    name: "native",
+                    impressions: "135800000",
+                  },
+                  {
+                    id: "300x250",
+                    name: "300x250",
+                    impressions: "76350000",
+                  },
+                  {
+                    id: "250x250",
+                    name: "250x250",
+                    impressions: "49630000",
+                  },
+                  {
+                    id: "300x50",
+                    name: "300x50",
+                    impressions: "40940000",
+                  },
+                  {
+                    id: "320x50",
+                    name: "320x50",
+                    impressions: "39560000",
+                  },
+                  {
+                    id: "336x280",
+                    name: "336x280",
+                    impressions: "27470000",
+                  },
+                  {
+                    id: "interstitial",
+                    name: "interstitial",
+                    impressions: "24600000",
+                  },
+                  {
+                    id: "200x200",
+                    name: "200x200",
+                    impressions: "23140000",
+                  },
+                  {
+                    id: "300x100",
+                    name: "300x100",
+                    impressions: "23130000",
+                  },
+                  {
+                    id: "234x60",
+                    name: "234x60",
+                    impressions: "22710000",
+                  },
+                  {
+                    id: "320x180",
+                    name: "320x180",
+                    impressions: "17870000",
+                  },
+                  {
+                    id: "180x150",
+                    name: "180x150",
+                    impressions: "16730000",
+                  },
+                  {
+                    id: "320x100",
+                    name: "320x100",
+                    impressions: "15330000",
+                  },
+                  {
+                    id: "120x240",
+                    name: "120x240",
+                    impressions: "14390000",
+                  },
+                  {
+                    id: "240x133",
+                    name: "240x133",
+                    impressions: "13840000",
+                  },
+                  {
+                    id: "220x90",
+                    name: "220x90",
+                    impressions: "13840000",
+                  },
+                  {
+                    id: "125x125",
+                    name: "125x125",
+                    impressions: "9599000",
+                  },
+                  {
+                    id: "320x480",
+                    name: "320x480",
+                    impressions: "8963000",
+                  },
+                  {
+                    id: "300x600",
+                    name: "300x600",
+                    impressions: "8693000",
+                  },
+                  {
+                    id: "120x60",
+                    name: "120x60",
+                    impressions: "8542000",
+                  },
+                ],
+              },
+              {
+                filterType: "CONTENT_VERTICAL",
+                slices: [
+                  {
+                    id: "13",
+                    name: "Internet & Telecom",
+                    impressions: "194200000",
+                  },
+                  {
+                    id: "16",
+                    name: "News",
+                    impressions: "149000000",
+                  },
+                  {
+                    id: "5",
+                    name: "Computers & Electronics",
+                    impressions: "119600000",
+                  },
+                  {
+                    id: "14",
+                    name: "People & Society",
+                    impressions: "75000000",
+                  },
+                  {
+                    id: "19",
+                    name: "Law & Government",
+                    impressions: "70890000",
+                  },
+                  {
+                    id: "533",
+                    name: "Reference",
+                    impressions: "53540000",
+                  },
+                  {
+                    id: "3",
+                    name: "Arts & Entertainment",
+                    impressions: "44660000",
+                  },
+                  {
+                    id: "12",
+                    name: "Business & Industrial",
+                    impressions: "27020000",
+                  },
+                  {
+                    id: "8",
+                    name: "Games",
+                    impressions: "19380000",
+                  },
+                  {
+                    id: "20",
+                    name: "Sports",
+                    impressions: "17430000",
+                  },
+                  {
+                    id: "22",
+                    name: "Books & Literature",
+                    impressions: "8438000",
+                  },
+                  {
+                    id: "7",
+                    name: "Finance",
+                    impressions: "7431000",
+                  },
+                  {
+                    id: "958",
+                    name: "Jobs & Education",
+                    impressions: "6413000",
+                  },
+                  {
+                    id: "299",
+                    name: "Online Communities",
+                    impressions: "6193000",
+                  },
+                  {
+                    id: "65",
+                    name: "Hobbies & Leisure",
+                    impressions: "5219000",
+                  },
+                  {
+                    id: "44",
+                    name: "Beauty & Fitness",
+                    impressions: "5145000",
+                  },
+                  {
+                    id: "45",
+                    name: "Health",
+                    impressions: "4948000",
+                  },
+                  {
+                    id: "67",
+                    name: "Travel & Transportation",
+                    impressions: "4516000",
+                  },
+                  {
+                    id: "18",
+                    name: "Shopping",
+                    impressions: "3601000",
+                  },
+                ],
+              },
+              {
+                filterType: "DEVICE",
+                slices: [
+                  {
+                    id: "5",
+                    name: "Mobile",
+                    impressions: "277100000",
+                  },
+                  {
+                    id: "3",
+                    name: "Desktop",
+                    impressions: "24170000",
+                  },
+                  {
+                    id: "4",
+                    name: "Tablet",
+                    impressions: "1479000",
+                  },
+                  {
+                    id: "6",
+                    name: "Connected TV",
+                    impressions: "182000",
+                  },
+                ],
+              },
+              {
+                filterType: "REQUEST_FORMAT",
+                slices: [
+                  {
+                    id: "1",
+                    name: "Display",
+                    impressions: "247000000",
+                  },
+                  {
+                    id: "2",
+                    name: "Video",
+                    impressions: "94400000",
+                  },
+                ],
+              },
+            ],
           },
           {
             id: "5",
             name: "55-64",
-            impressions: "288300000",
+            impressions: "286100000",
+            uniqueUsers: "1522000",
+            breakdowns: [
+              {
+                filterType: "COUNTRY",
+                slices: [
+                  {
+                    id: "2404",
+                    name: "Kenya",
+                    impressions: "286100000",
+                  },
+                ],
+              },
+              {
+                filterType: "GENDER",
+                slices: [
+                  {
+                    id: "1",
+                    name: "Male",
+                    impressions: "271400000",
+                  },
+                  {
+                    id: "0",
+                    name: "Female",
+                    impressions: "13250000",
+                  },
+                ],
+              },
+              {
+                filterType: "AGE",
+                slices: [
+                  {
+                    id: "5",
+                    name: "55-64",
+                    impressions: "286100000",
+                  },
+                ],
+              },
+              {
+                filterType: "INVENTORY_SIZE",
+                slices: [
+                  {
+                    id: "native",
+                    name: "native",
+                    impressions: "206200000",
+                  },
+                  {
+                    id: "320x50",
+                    name: "320x50",
+                    impressions: "51570000",
+                  },
+                  {
+                    id: "300x50",
+                    name: "300x50",
+                    impressions: "49450000",
+                  },
+                  {
+                    id: "300x250",
+                    name: "300x250",
+                    impressions: "37110000",
+                  },
+                  {
+                    id: "interstitial",
+                    name: "interstitial",
+                    impressions: "32960000",
+                  },
+                  {
+                    id: "250x250",
+                    name: "250x250",
+                    impressions: "27950000",
+                  },
+                  {
+                    id: "336x280",
+                    name: "336x280",
+                    impressions: "22660000",
+                  },
+                  {
+                    id: "300x100",
+                    name: "300x100",
+                    impressions: "21410000",
+                  },
+                  {
+                    id: "360x721",
+                    name: "360x721",
+                    impressions: "21250000",
+                  },
+                  {
+                    id: "320x100",
+                    name: "320x100",
+                    impressions: "20900000",
+                  },
+                  {
+                    id: "200x200",
+                    name: "200x200",
+                    impressions: "20000000",
+                  },
+                  {
+                    id: "234x60",
+                    name: "234x60",
+                    impressions: "19600000",
+                  },
+                  {
+                    id: "180x150",
+                    name: "180x150",
+                    impressions: "17590000",
+                  },
+                  {
+                    id: "220x90",
+                    name: "220x90",
+                    impressions: "16760000",
+                  },
+                  {
+                    id: "240x133",
+                    name: "240x133",
+                    impressions: "16690000",
+                  },
+                  {
+                    id: "120x240",
+                    name: "120x240",
+                    impressions: "15610000",
+                  },
+                  {
+                    id: "125x125",
+                    name: "125x125",
+                    impressions: "15210000",
+                  },
+                  {
+                    id: "120x60",
+                    name: "120x60",
+                    impressions: "14980000",
+                  },
+                  {
+                    id: "292x30",
+                    name: "292x30",
+                    impressions: "14720000",
+                  },
+                  {
+                    id: "300x31",
+                    name: "300x31",
+                    impressions: "14720000",
+                  },
+                ],
+              },
+              {
+                filterType: "CONTENT_VERTICAL",
+                slices: [
+                  {
+                    id: "13",
+                    name: "Internet & Telecom",
+                    impressions: "240100000",
+                  },
+                  {
+                    id: "5",
+                    name: "Computers & Electronics",
+                    impressions: "112100000",
+                  },
+                  {
+                    id: "14",
+                    name: "People & Society",
+                    impressions: "104200000",
+                  },
+                  {
+                    id: "22",
+                    name: "Books & Literature",
+                    impressions: "87090000",
+                  },
+                  {
+                    id: "16",
+                    name: "News",
+                    impressions: "70020000",
+                  },
+                  {
+                    id: "19",
+                    name: "Law & Government",
+                    impressions: "19880000",
+                  },
+                  {
+                    id: "3",
+                    name: "Arts & Entertainment",
+                    impressions: "15070000",
+                  },
+                  {
+                    id: "12",
+                    name: "Business & Industrial",
+                    impressions: "9863000",
+                  },
+                  {
+                    id: "533",
+                    name: "Reference",
+                    impressions: "9400000",
+                  },
+                  {
+                    id: "20",
+                    name: "Sports",
+                    impressions: "5800000",
+                  },
+                  {
+                    id: "65",
+                    name: "Hobbies & Leisure",
+                    impressions: "5796000",
+                  },
+                  {
+                    id: "8",
+                    name: "Games",
+                    impressions: "5562000",
+                  },
+                  {
+                    id: "45",
+                    name: "Health",
+                    impressions: "5335000",
+                  },
+                  {
+                    id: "71",
+                    name: "Food & Drink",
+                    impressions: "3914000",
+                  },
+                  {
+                    id: "44",
+                    name: "Beauty & Fitness",
+                    impressions: "2536000",
+                  },
+                  {
+                    id: "7",
+                    name: "Finance",
+                    impressions: "2364000",
+                  },
+                  {
+                    id: "299",
+                    name: "Online Communities",
+                    impressions: "2057000",
+                  },
+                  {
+                    id: "958",
+                    name: "Jobs & Education",
+                    impressions: "1891000",
+                  },
+                  {
+                    id: "11",
+                    name: "Home & Garden",
+                    impressions: "1498000",
+                  },
+                ],
+              },
+              {
+                filterType: "DEVICE",
+                slices: [
+                  {
+                    id: "5",
+                    name: "Mobile",
+                    impressions: "283200000",
+                  },
+                  {
+                    id: "3",
+                    name: "Desktop",
+                    impressions: "1604000",
+                  },
+                  {
+                    id: "4",
+                    name: "Tablet",
+                    impressions: "1300000",
+                  },
+                  {
+                    id: "6",
+                    name: "Connected TV",
+                    impressions: "26000",
+                  },
+                ],
+              },
+              {
+                filterType: "REQUEST_FORMAT",
+                slices: [
+                  {
+                    id: "1",
+                    name: "Display",
+                    impressions: "264700000",
+                  },
+                  {
+                    id: "2",
+                    name: "Video",
+                    impressions: "34400000",
+                  },
+                ],
+              },
+            ],
           },
           {
             id: "6",
             name: "65+",
-            impressions: "35070000",
+            impressions: "32330000",
+            uniqueUsers: "608000",
+            breakdowns: [
+              {
+                filterType: "COUNTRY",
+                slices: [
+                  {
+                    id: "2404",
+                    name: "Kenya",
+                    impressions: "32330000",
+                  },
+                ],
+              },
+              {
+                filterType: "GENDER",
+                slices: [
+                  {
+                    id: "1",
+                    name: "Male",
+                    impressions: "26140000",
+                  },
+                  {
+                    id: "0",
+                    name: "Female",
+                    impressions: "6178000",
+                  },
+                ],
+              },
+              {
+                filterType: "AGE",
+                slices: [
+                  {
+                    id: "6",
+                    name: "65+",
+                    impressions: "32330000",
+                  },
+                ],
+              },
+              {
+                filterType: "INVENTORY_SIZE",
+                slices: [
+                  {
+                    id: "300x250",
+                    name: "300x250",
+                    impressions: "7301000",
+                  },
+                  {
+                    id: "320x50",
+                    name: "320x50",
+                    impressions: "7246000",
+                  },
+                  {
+                    id: "native",
+                    name: "native",
+                    impressions: "6703000",
+                  },
+                  {
+                    id: "300x50",
+                    name: "300x50",
+                    impressions: "6345000",
+                  },
+                  {
+                    id: "320x180",
+                    name: "320x180",
+                    impressions: "6008000",
+                  },
+                  {
+                    id: "250x250",
+                    name: "250x250",
+                    impressions: "5011000",
+                  },
+                  {
+                    id: "200x200",
+                    name: "200x200",
+                    impressions: "4761000",
+                  },
+                  {
+                    id: "336x280",
+                    name: "336x280",
+                    impressions: "4039000",
+                  },
+                  {
+                    id: "interstitial",
+                    name: "interstitial",
+                    impressions: "3521000",
+                  },
+                  {
+                    id: "300x100",
+                    name: "300x100",
+                    impressions: "3181000",
+                  },
+                  {
+                    id: "320x100",
+                    name: "320x100",
+                    impressions: "2998000",
+                  },
+                  {
+                    id: "234x60",
+                    name: "234x60",
+                    impressions: "2821000",
+                  },
+                  {
+                    id: "180x150",
+                    name: "180x150",
+                    impressions: "2377000",
+                  },
+                  {
+                    id: "292x244",
+                    name: "292x244",
+                    impressions: "1668000",
+                  },
+                  {
+                    id: "300x600",
+                    name: "300x600",
+                    impressions: "1434000",
+                  },
+                  {
+                    id: "160x600",
+                    name: "160x600",
+                    impressions: "1394000",
+                  },
+                  {
+                    id: "320x480",
+                    name: "320x480",
+                    impressions: "1388000",
+                  },
+                  {
+                    id: "220x90",
+                    name: "220x90",
+                    impressions: "1173000",
+                  },
+                  {
+                    id: "240x133",
+                    name: "240x133",
+                    impressions: "1115000",
+                  },
+                  {
+                    id: "120x240",
+                    name: "120x240",
+                    impressions: "950000",
+                  },
+                ],
+              },
+              {
+                filterType: "CONTENT_VERTICAL",
+                slices: [
+                  {
+                    id: "16",
+                    name: "News",
+                    impressions: "19980000",
+                  },
+                  {
+                    id: "14",
+                    name: "People & Society",
+                    impressions: "14940000",
+                  },
+                  {
+                    id: "19",
+                    name: "Law & Government",
+                    impressions: "14160000",
+                  },
+                  {
+                    id: "13",
+                    name: "Internet & Telecom",
+                    impressions: "11060000",
+                  },
+                  {
+                    id: "533",
+                    name: "Reference",
+                    impressions: "10520000",
+                  },
+                  {
+                    id: "3",
+                    name: "Arts & Entertainment",
+                    impressions: "7160000",
+                  },
+                  {
+                    id: "8",
+                    name: "Games",
+                    impressions: "5124000",
+                  },
+                  {
+                    id: "5",
+                    name: "Computers & Electronics",
+                    impressions: "3372000",
+                  },
+                  {
+                    id: "12",
+                    name: "Business & Industrial",
+                    impressions: "2767000",
+                  },
+                  {
+                    id: "20",
+                    name: "Sports",
+                    impressions: "2537000",
+                  },
+                  {
+                    id: "299",
+                    name: "Online Communities",
+                    impressions: "2298000",
+                  },
+                  {
+                    id: "7",
+                    name: "Finance",
+                    impressions: "1160000",
+                  },
+                  {
+                    id: "958",
+                    name: "Jobs & Education",
+                    impressions: "1089000",
+                  },
+                  {
+                    id: "65",
+                    name: "Hobbies & Leisure",
+                    impressions: "992000",
+                  },
+                  {
+                    id: "44",
+                    name: "Beauty & Fitness",
+                    impressions: "864000",
+                  },
+                  {
+                    id: "22",
+                    name: "Books & Literature",
+                    impressions: "811000",
+                  },
+                  {
+                    id: "45",
+                    name: "Health",
+                    impressions: "783000",
+                  },
+                  {
+                    id: "18",
+                    name: "Shopping",
+                    impressions: "682000",
+                  },
+                  {
+                    id: "174",
+                    name: "Science",
+                    impressions: "498000",
+                  },
+                ],
+              },
+              {
+                filterType: "DEVICE",
+                slices: [
+                  {
+                    id: "5",
+                    name: "Mobile",
+                    impressions: "27650000",
+                  },
+                  {
+                    id: "3",
+                    name: "Desktop",
+                    impressions: "3072000",
+                  },
+                  {
+                    id: "4",
+                    name: "Tablet",
+                    impressions: "1470000",
+                  },
+                  {
+                    id: "6",
+                    name: "Connected TV",
+                    impressions: "138000",
+                  },
+                ],
+              },
+              {
+                filterType: "REQUEST_FORMAT",
+                slices: [
+                  {
+                    id: "1",
+                    name: "Display",
+                    impressions: "21950000",
+                  },
+                  {
+                    id: "2",
+                    name: "Video",
+                    impressions: "15320000",
+                  },
+                ],
+              },
+            ],
           },
         ],
       },
@@ -4957,27 +6655,642 @@ export default {
           {
             id: "13",
             name: "Internet & Telecom",
-            impressions: "2729000000",
+            impressions: "2721000000",
+            uniqueUsers: "22840000",
+            breakdowns: [
+              {
+                filterType: "INVENTORY_SIZE",
+                slices: [
+                  {
+                    id: "native",
+                    name: "native",
+                    impressions: "1357000000",
+                  },
+                  {
+                    id: "320x50",
+                    name: "320x50",
+                    impressions: "607600000",
+                  },
+                  {
+                    id: "interstitial",
+                    name: "interstitial",
+                    impressions: "556900000",
+                  },
+                  {
+                    id: "300x250",
+                    name: "300x250",
+                    impressions: "390500000",
+                  },
+                  {
+                    id: "300x50",
+                    name: "300x50",
+                    impressions: "279100000",
+                  },
+                  {
+                    id: "250x250",
+                    name: "250x250",
+                    impressions: "236100000",
+                  },
+                  {
+                    id: "336x280",
+                    name: "336x280",
+                    impressions: "165300000",
+                  },
+                  {
+                    id: "320x480",
+                    name: "320x480",
+                    impressions: "151700000",
+                  },
+                  {
+                    id: "120x240",
+                    name: "120x240",
+                    impressions: "132500000",
+                  },
+                  {
+                    id: "300x600",
+                    name: "300x600",
+                    impressions: "129100000",
+                  },
+                  {
+                    id: "250x360",
+                    name: "250x360",
+                    impressions: "123600000",
+                  },
+                  {
+                    id: "240x400",
+                    name: "240x400",
+                    impressions: "122400000",
+                  },
+                  {
+                    id: "200x446",
+                    name: "200x446",
+                    impressions: "120700000",
+                  },
+                  {
+                    id: "160x600",
+                    name: "160x600",
+                    impressions: "115300000",
+                  },
+                  {
+                    id: "120x600",
+                    name: "120x600",
+                    impressions: "97160000",
+                  },
+                  {
+                    id: "320x100",
+                    name: "320x100",
+                    impressions: "83200000",
+                  },
+                  {
+                    id: "234x60",
+                    name: "234x60",
+                    impressions: "76720000",
+                  },
+                  {
+                    id: "200x200",
+                    name: "200x200",
+                    impressions: "75860000",
+                  },
+                  {
+                    id: "360x56",
+                    name: "360x56",
+                    impressions: "72460000",
+                  },
+                  {
+                    id: "300x100",
+                    name: "300x100",
+                    impressions: "71960000",
+                  },
+                ],
+              },
+              {
+                filterType: "REQUEST_FORMAT",
+                slices: [
+                  {
+                    id: "1",
+                    name: "Display",
+                    impressions: "2403000000",
+                  },
+                  {
+                    id: "2",
+                    name: "Video",
+                    impressions: "404200000",
+                  },
+                ],
+              },
+            ],
           },
           {
             id: "16",
             name: "News",
-            impressions: "1660000000",
+            impressions: "1655000000",
+            uniqueUsers: "20380000",
+            breakdowns: [
+              {
+                filterType: "INVENTORY_SIZE",
+                slices: [
+                  {
+                    id: "320x50",
+                    name: "320x50",
+                    impressions: "473900000",
+                  },
+                  {
+                    id: "300x250",
+                    name: "300x250",
+                    impressions: "464100000",
+                  },
+                  {
+                    id: "native",
+                    name: "native",
+                    impressions: "404800000",
+                  },
+                  {
+                    id: "250x250",
+                    name: "250x250",
+                    impressions: "325100000",
+                  },
+                  {
+                    id: "300x50",
+                    name: "300x50",
+                    impressions: "318200000",
+                  },
+                  {
+                    id: "336x280",
+                    name: "336x280",
+                    impressions: "286700000",
+                  },
+                  {
+                    id: "320x180",
+                    name: "320x180",
+                    impressions: "208400000",
+                  },
+                  {
+                    id: "200x200",
+                    name: "200x200",
+                    impressions: "156700000",
+                  },
+                  {
+                    id: "300x100",
+                    name: "300x100",
+                    impressions: "143600000",
+                  },
+                  {
+                    id: "234x60",
+                    name: "234x60",
+                    impressions: "143400000",
+                  },
+                  {
+                    id: "interstitial",
+                    name: "interstitial",
+                    impressions: "137500000",
+                  },
+                  {
+                    id: "320x480",
+                    name: "320x480",
+                    impressions: "134800000",
+                  },
+                  {
+                    id: "120x240",
+                    name: "120x240",
+                    impressions: "130200000",
+                  },
+                  {
+                    id: "320x100",
+                    name: "320x100",
+                    impressions: "125400000",
+                  },
+                  {
+                    id: "300x600",
+                    name: "300x600",
+                    impressions: "122700000",
+                  },
+                  {
+                    id: "250x360",
+                    name: "250x360",
+                    impressions: "115600000",
+                  },
+                  {
+                    id: "160x600",
+                    name: "160x600",
+                    impressions: "110600000",
+                  },
+                  {
+                    id: "240x400",
+                    name: "240x400",
+                    impressions: "109700000",
+                  },
+                  {
+                    id: "200x446",
+                    name: "200x446",
+                    impressions: "107800000",
+                  },
+                  {
+                    id: "180x150",
+                    name: "180x150",
+                    impressions: "91570000",
+                  },
+                ],
+              },
+              {
+                filterType: "REQUEST_FORMAT",
+                slices: [
+                  {
+                    id: "1",
+                    name: "Display",
+                    impressions: "1169000000",
+                  },
+                  {
+                    id: "2",
+                    name: "Video",
+                    impressions: "698600000",
+                  },
+                ],
+              },
+            ],
           },
           {
             id: "5",
             name: "Computers & Electronics",
-            impressions: "1090000000",
+            impressions: "1098000000",
+            uniqueUsers: "16140000",
+            breakdowns: [
+              {
+                filterType: "INVENTORY_SIZE",
+                slices: [
+                  {
+                    id: "native",
+                    name: "native",
+                    impressions: "716600000",
+                  },
+                  {
+                    id: "300x250",
+                    name: "300x250",
+                    impressions: "221100000",
+                  },
+                  {
+                    id: "320x50",
+                    name: "320x50",
+                    impressions: "127800000",
+                  },
+                  {
+                    id: "250x250",
+                    name: "250x250",
+                    impressions: "116500000",
+                  },
+                  {
+                    id: "interstitial",
+                    name: "interstitial",
+                    impressions: "109700000",
+                  },
+                  {
+                    id: "300x50",
+                    name: "300x50",
+                    impressions: "88910000",
+                  },
+                  {
+                    id: "300x100",
+                    name: "300x100",
+                    impressions: "69790000",
+                  },
+                  {
+                    id: "320x100",
+                    name: "320x100",
+                    impressions: "57690000",
+                  },
+                  {
+                    id: "336x280",
+                    name: "336x280",
+                    impressions: "51720000",
+                  },
+                  {
+                    id: "200x200",
+                    name: "200x200",
+                    impressions: "51670000",
+                  },
+                  {
+                    id: "234x60",
+                    name: "234x60",
+                    impressions: "44460000",
+                  },
+                  {
+                    id: "120x240",
+                    name: "120x240",
+                    impressions: "37870000",
+                  },
+                  {
+                    id: "180x150",
+                    name: "180x150",
+                    impressions: "36100000",
+                  },
+                  {
+                    id: "220x90",
+                    name: "220x90",
+                    impressions: "33340000",
+                  },
+                  {
+                    id: "240x133",
+                    name: "240x133",
+                    impressions: "31750000",
+                  },
+                  {
+                    id: "125x125",
+                    name: "125x125",
+                    impressions: "30570000",
+                  },
+                  {
+                    id: "320x480",
+                    name: "320x480",
+                    impressions: "29830000",
+                  },
+                  {
+                    id: "120x60",
+                    name: "120x60",
+                    impressions: "29150000",
+                  },
+                  {
+                    id: "300x600",
+                    name: "300x600",
+                    impressions: "23220000",
+                  },
+                  {
+                    id: "160x600",
+                    name: "160x600",
+                    impressions: "17430000",
+                  },
+                ],
+              },
+              {
+                filterType: "REQUEST_FORMAT",
+                slices: [
+                  {
+                    id: "1",
+                    name: "Display",
+                    impressions: "999300000",
+                  },
+                  {
+                    id: "2",
+                    name: "Video",
+                    impressions: "170400000",
+                  },
+                ],
+              },
+            ],
           },
           {
             id: "3",
             name: "Arts & Entertainment",
-            impressions: "836500000",
+            impressions: "829500000",
+            uniqueUsers: "17820000",
+            breakdowns: [
+              {
+                filterType: "INVENTORY_SIZE",
+                slices: [
+                  {
+                    id: "300x250",
+                    name: "300x250",
+                    impressions: "288200000",
+                  },
+                  {
+                    id: "native",
+                    name: "native",
+                    impressions: "230400000",
+                  },
+                  {
+                    id: "300x50",
+                    name: "300x50",
+                    impressions: "200300000",
+                  },
+                  {
+                    id: "320x50",
+                    name: "320x50",
+                    impressions: "200200000",
+                  },
+                  {
+                    id: "250x250",
+                    name: "250x250",
+                    impressions: "188900000",
+                  },
+                  {
+                    id: "336x280",
+                    name: "336x280",
+                    impressions: "157500000",
+                  },
+                  {
+                    id: "234x60",
+                    name: "234x60",
+                    impressions: "122500000",
+                  },
+                  {
+                    id: "200x200",
+                    name: "200x200",
+                    impressions: "113900000",
+                  },
+                  {
+                    id: "300x100",
+                    name: "300x100",
+                    impressions: "80570000",
+                  },
+                  {
+                    id: "180x150",
+                    name: "180x150",
+                    impressions: "77170000",
+                  },
+                  {
+                    id: "320x100",
+                    name: "320x100",
+                    impressions: "57820000",
+                  },
+                  {
+                    id: "interstitial",
+                    name: "interstitial",
+                    impressions: "56920000",
+                  },
+                  {
+                    id: "220x90",
+                    name: "220x90",
+                    impressions: "48720000",
+                  },
+                  {
+                    id: "240x133",
+                    name: "240x133",
+                    impressions: "48650000",
+                  },
+                  {
+                    id: "320x180",
+                    name: "320x180",
+                    impressions: "47370000",
+                  },
+                  {
+                    id: "120x240",
+                    name: "120x240",
+                    impressions: "45410000",
+                  },
+                  {
+                    id: "125x125",
+                    name: "125x125",
+                    impressions: "43960000",
+                  },
+                  {
+                    id: "400x333",
+                    name: "400x333",
+                    impressions: "37330000",
+                  },
+                  {
+                    id: "300x600",
+                    name: "300x600",
+                    impressions: "36870000",
+                  },
+                  {
+                    id: "120x60",
+                    name: "120x60",
+                    impressions: "34970000",
+                  },
+                ],
+              },
+              {
+                filterType: "REQUEST_FORMAT",
+                slices: [
+                  {
+                    id: "1",
+                    name: "Display",
+                    impressions: "651000000",
+                  },
+                  {
+                    id: "2",
+                    name: "Video",
+                    impressions: "329000000",
+                  },
+                ],
+              },
+            ],
           },
           {
             id: "14",
             name: "People & Society",
-            impressions: "806500000",
+            impressions: "811400000",
+            uniqueUsers: "14500000",
+            breakdowns: [
+              {
+                filterType: "INVENTORY_SIZE",
+                slices: [
+                  {
+                    id: "300x250",
+                    name: "300x250",
+                    impressions: "217400000",
+                  },
+                  {
+                    id: "native",
+                    name: "native",
+                    impressions: "192200000",
+                  },
+                  {
+                    id: "320x50",
+                    name: "320x50",
+                    impressions: "176600000",
+                  },
+                  {
+                    id: "300x50",
+                    name: "300x50",
+                    impressions: "161400000",
+                  },
+                  {
+                    id: "250x250",
+                    name: "250x250",
+                    impressions: "136600000",
+                  },
+                  {
+                    id: "336x280",
+                    name: "336x280",
+                    impressions: "130800000",
+                  },
+                  {
+                    id: "320x180",
+                    name: "320x180",
+                    impressions: "124300000",
+                  },
+                  {
+                    id: "300x100",
+                    name: "300x100",
+                    impressions: "83870000",
+                  },
+                  {
+                    id: "320x100",
+                    name: "320x100",
+                    impressions: "80270000",
+                  },
+                  {
+                    id: "234x60",
+                    name: "234x60",
+                    impressions: "75510000",
+                  },
+                  {
+                    id: "200x200",
+                    name: "200x200",
+                    impressions: "73590000",
+                  },
+                  {
+                    id: "464x261",
+                    name: "464x261",
+                    impressions: "66390000",
+                  },
+                  {
+                    id: "interstitial",
+                    name: "interstitial",
+                    impressions: "61300000",
+                  },
+                  {
+                    id: "180x150",
+                    name: "180x150",
+                    impressions: "50480000",
+                  },
+                  {
+                    id: "220x90",
+                    name: "220x90",
+                    impressions: "31230000",
+                  },
+                  {
+                    id: "213x120",
+                    name: "213x120",
+                    impressions: "31010000",
+                  },
+                  {
+                    id: "240x133",
+                    name: "240x133",
+                    impressions: "29820000",
+                  },
+                  {
+                    id: "360x300",
+                    name: "360x300",
+                    impressions: "27220000",
+                  },
+                  {
+                    id: "728x90",
+                    name: "728x90",
+                    impressions: "27030000",
+                  },
+                  {
+                    id: "320x480",
+                    name: "320x480",
+                    impressions: "27010000",
+                  },
+                ],
+              },
+              {
+                filterType: "REQUEST_FORMAT",
+                slices: [
+                  {
+                    id: "1",
+                    name: "Display",
+                    impressions: "491100000",
+                  },
+                  {
+                    id: "2",
+                    name: "Video",
+                    impressions: "471100000",
+                  },
+                ],
+              },
+            ],
           },
           {
             id: "8",
@@ -4987,7 +7300,8 @@ export default {
           {
             id: "19",
             name: "Law & Government",
-            impressions: "611700000",
+            impressions: "611300000",
+            uniqueUsers: "10930000",
           },
           {
             id: "20",
@@ -5057,22 +7371,914 @@ export default {
           {
             id: "5",
             name: "Mobile",
-            impressions: "3574000000",
+            impressions: "3579000000",
+            uniqueUsers: "36860000",
+            breakdowns: [
+              {
+                filterType: "INVENTORY_SIZE",
+                slices: [
+                  {
+                    id: "native",
+                    name: "native",
+                    impressions: "1462000000",
+                  },
+                  {
+                    id: "320x50",
+                    name: "320x50",
+                    impressions: "899600000",
+                  },
+                  {
+                    id: "300x250",
+                    name: "300x250",
+                    impressions: "792500000",
+                  },
+                  {
+                    id: "300x50",
+                    name: "300x50",
+                    impressions: "556800000",
+                  },
+                  {
+                    id: "interstitial",
+                    name: "interstitial",
+                    impressions: "533400000",
+                  },
+                  {
+                    id: "250x250",
+                    name: "250x250",
+                    impressions: "498000000",
+                  },
+                  {
+                    id: "336x280",
+                    name: "336x280",
+                    impressions: "418000000",
+                  },
+                  {
+                    id: "234x60",
+                    name: "234x60",
+                    impressions: "224900000",
+                  },
+                  {
+                    id: "320x180",
+                    name: "320x180",
+                    impressions: "218500000",
+                  },
+                  {
+                    id: "200x200",
+                    name: "200x200",
+                    impressions: "215100000",
+                  },
+                  {
+                    id: "320x100",
+                    name: "320x100",
+                    impressions: "214100000",
+                  },
+                  {
+                    id: "320x480",
+                    name: "320x480",
+                    impressions: "198700000",
+                  },
+                  {
+                    id: "300x100",
+                    name: "300x100",
+                    impressions: "197800000",
+                  },
+                  {
+                    id: "300x600",
+                    name: "300x600",
+                    impressions: "165100000",
+                  },
+                  {
+                    id: "120x240",
+                    name: "120x240",
+                    impressions: "151800000",
+                  },
+                  {
+                    id: "250x360",
+                    name: "250x360",
+                    impressions: "140900000",
+                  },
+                  {
+                    id: "160x600",
+                    name: "160x600",
+                    impressions: "135400000",
+                  },
+                  {
+                    id: "240x400",
+                    name: "240x400",
+                    impressions: "131700000",
+                  },
+                  {
+                    id: "200x446",
+                    name: "200x446",
+                    impressions: "129000000",
+                  },
+                  {
+                    id: "180x150",
+                    name: "180x150",
+                    impressions: "123000000",
+                  },
+                ],
+              },
+              {
+                filterType: "CONTENT_VERTICAL",
+                slices: [
+                  {
+                    id: "13",
+                    name: "Internet & Telecom",
+                    impressions: "2600000000",
+                  },
+                  {
+                    id: "16",
+                    name: "News",
+                    impressions: "1441000000",
+                  },
+                  {
+                    id: "5",
+                    name: "Computers & Electronics",
+                    impressions: "1037000000",
+                  },
+                  {
+                    id: "3",
+                    name: "Arts & Entertainment",
+                    impressions: "721100000",
+                  },
+                  {
+                    id: "14",
+                    name: "People & Society",
+                    impressions: "643700000",
+                  },
+                  {
+                    id: "8",
+                    name: "Games",
+                    impressions: "572000000",
+                  },
+                  {
+                    id: "20",
+                    name: "Sports",
+                    impressions: "562200000",
+                  },
+                  {
+                    id: "19",
+                    name: "Law & Government",
+                    impressions: "451300000",
+                  },
+                  {
+                    id: "533",
+                    name: "Reference",
+                    impressions: "304400000",
+                  },
+                  {
+                    id: "22",
+                    name: "Books & Literature",
+                    impressions: "214300000",
+                  },
+                  {
+                    id: "12",
+                    name: "Business & Industrial",
+                    impressions: "213300000",
+                  },
+                  {
+                    id: "299",
+                    name: "Online Communities",
+                    impressions: "166700000",
+                  },
+                  {
+                    id: "7",
+                    name: "Finance",
+                    impressions: "96560000",
+                  },
+                  {
+                    id: "65",
+                    name: "Hobbies & Leisure",
+                    impressions: "93290000",
+                  },
+                  {
+                    id: "958",
+                    name: "Jobs & Education",
+                    impressions: "80570000",
+                  },
+                  {
+                    id: "45",
+                    name: "Health",
+                    impressions: "75850000",
+                  },
+                  {
+                    id: "18",
+                    name: "Shopping",
+                    impressions: "63590000",
+                  },
+                  {
+                    id: "44",
+                    name: "Beauty & Fitness",
+                    impressions: "61810000",
+                  },
+                  {
+                    id: "67",
+                    name: "Travel & Transportation",
+                    impressions: "32670000",
+                  },
+                ],
+              },
+              {
+                filterType: "REQUEST_FORMAT",
+                slices: [
+                  {
+                    id: "1",
+                    name: "Display",
+                    impressions: "2938000000",
+                  },
+                  {
+                    id: "2",
+                    name: "Video",
+                    impressions: "973400000",
+                  },
+                ],
+              },
+            ],
           },
           {
             id: "3",
             name: "Desktop",
-            impressions: "306900000",
+            impressions: "311100000",
+            uniqueUsers: "2240000",
+            breakdowns: [
+              {
+                filterType: "INVENTORY_SIZE",
+                slices: [
+                  {
+                    id: "464x261",
+                    name: "464x261",
+                    impressions: "89970000",
+                  },
+                  {
+                    id: "300x250",
+                    name: "300x250",
+                    impressions: "73460000",
+                  },
+                  {
+                    id: "250x250",
+                    name: "250x250",
+                    impressions: "51770000",
+                  },
+                  {
+                    id: "728x90",
+                    name: "728x90",
+                    impressions: "50810000",
+                  },
+                  {
+                    id: "native",
+                    name: "native",
+                    impressions: "47510000",
+                  },
+                  {
+                    id: "300x50",
+                    name: "300x50",
+                    impressions: "44360000",
+                  },
+                  {
+                    id: "200x200",
+                    name: "200x200",
+                    impressions: "42620000",
+                  },
+                  {
+                    id: "300x100",
+                    name: "300x100",
+                    impressions: "40450000",
+                  },
+                  {
+                    id: "120x240",
+                    name: "120x240",
+                    impressions: "37530000",
+                  },
+                  {
+                    id: "180x150",
+                    name: "180x150",
+                    impressions: "36930000",
+                  },
+                  {
+                    id: "234x60",
+                    name: "234x60",
+                    impressions: "36730000",
+                  },
+                  {
+                    id: "125x125",
+                    name: "125x125",
+                    impressions: "36660000",
+                  },
+                  {
+                    id: "240x133",
+                    name: "240x133",
+                    impressions: "31140000",
+                  },
+                  {
+                    id: "220x90",
+                    name: "220x90",
+                    impressions: "30760000",
+                  },
+                  {
+                    id: "120x60",
+                    name: "120x60",
+                    impressions: "29550000",
+                  },
+                  {
+                    id: "970x90",
+                    name: "970x90",
+                    impressions: "25520000",
+                  },
+                  {
+                    id: "960x90",
+                    name: "960x90",
+                    impressions: "20470000",
+                  },
+                  {
+                    id: "950x90",
+                    name: "950x90",
+                    impressions: "20470000",
+                  },
+                  {
+                    id: "160x600",
+                    name: "160x600",
+                    impressions: "20240000",
+                  },
+                  {
+                    id: "407x229",
+                    name: "407x229",
+                    impressions: "19110000",
+                  },
+                ],
+              },
+              {
+                filterType: "CONTENT_VERTICAL",
+                slices: [
+                  {
+                    id: "16",
+                    name: "News",
+                    impressions: "203800000",
+                  },
+                  {
+                    id: "14",
+                    name: "People & Society",
+                    impressions: "159000000",
+                  },
+                  {
+                    id: "19",
+                    name: "Law & Government",
+                    impressions: "155500000",
+                  },
+                  {
+                    id: "533",
+                    name: "Reference",
+                    impressions: "120800000",
+                  },
+                  {
+                    id: "12",
+                    name: "Business & Industrial",
+                    impressions: "109200000",
+                  },
+                  {
+                    id: "3",
+                    name: "Arts & Entertainment",
+                    impressions: "97530000",
+                  },
+                  {
+                    id: "5",
+                    name: "Computers & Electronics",
+                    impressions: "46130000",
+                  },
+                  {
+                    id: "7",
+                    name: "Finance",
+                    impressions: "45440000",
+                  },
+                  {
+                    id: "13",
+                    name: "Internet & Telecom",
+                    impressions: "40090000",
+                  },
+                  {
+                    id: "958",
+                    name: "Jobs & Education",
+                    impressions: "36070000",
+                  },
+                  {
+                    id: "8",
+                    name: "Games",
+                    impressions: "26720000",
+                  },
+                  {
+                    id: "174",
+                    name: "Science",
+                    impressions: "25840000",
+                  },
+                  {
+                    id: "18",
+                    name: "Shopping",
+                    impressions: "25750000",
+                  },
+                  {
+                    id: "299",
+                    name: "Online Communities",
+                    impressions: "22540000",
+                  },
+                  {
+                    id: "20",
+                    name: "Sports",
+                    impressions: "20740000",
+                  },
+                  {
+                    id: "29",
+                    name: "Real Estate",
+                    impressions: "19310000",
+                  },
+                  {
+                    id: "22",
+                    name: "Books & Literature",
+                    impressions: "18290000",
+                  },
+                  {
+                    id: "65",
+                    name: "Hobbies & Leisure",
+                    impressions: "17280000",
+                  },
+                  {
+                    id: "45",
+                    name: "Health",
+                    impressions: "16080000",
+                  },
+                ],
+              },
+              {
+                filterType: "REQUEST_FORMAT",
+                slices: [
+                  {
+                    id: "2",
+                    name: "Video",
+                    impressions: "205300000",
+                  },
+                  {
+                    id: "1",
+                    name: "Display",
+                    impressions: "152800000",
+                  },
+                ],
+              },
+            ],
           },
           {
             id: "4",
             name: "Tablet",
-            impressions: "100600000",
+            impressions: "92590000",
+            uniqueUsers: "410000",
+            breakdowns: [
+              {
+                filterType: "INVENTORY_SIZE",
+                slices: [
+                  {
+                    id: "interstitial",
+                    name: "interstitial",
+                    impressions: "30830000",
+                  },
+                  {
+                    id: "native",
+                    name: "native",
+                    impressions: "27160000",
+                  },
+                  {
+                    id: "728x90",
+                    name: "728x90",
+                    impressions: "20420000",
+                  },
+                  {
+                    id: "320x50",
+                    name: "320x50",
+                    impressions: "15680000",
+                  },
+                  {
+                    id: "753x1158",
+                    name: "753x1158",
+                    impressions: "11970000",
+                  },
+                  {
+                    id: "753x90",
+                    name: "753x90",
+                    impressions: "11660000",
+                  },
+                  {
+                    id: "300x50",
+                    name: "300x50",
+                    impressions: "10370000",
+                  },
+                  {
+                    id: "468x60",
+                    name: "468x60",
+                    impressions: "8203000",
+                  },
+                  {
+                    id: "234x60",
+                    name: "234x60",
+                    impressions: "6618000",
+                  },
+                  {
+                    id: "120x60",
+                    name: "120x60",
+                    impressions: "6289000",
+                  },
+                  {
+                    id: "300x31",
+                    name: "300x31",
+                    impressions: "6288000",
+                  },
+                  {
+                    id: "292x30",
+                    name: "292x30",
+                    impressions: "6287000",
+                  },
+                  {
+                    id: "88x31",
+                    name: "88x31",
+                    impressions: "6287000",
+                  },
+                  {
+                    id: "220x90",
+                    name: "220x90",
+                    impressions: "5133000",
+                  },
+                  {
+                    id: "300x250",
+                    name: "300x250",
+                    impressions: "4629000",
+                  },
+                  {
+                    id: "300x75",
+                    name: "300x75",
+                    impressions: "3222000",
+                  },
+                  {
+                    id: "601x77",
+                    name: "601x77",
+                    impressions: "2884000",
+                  },
+                  {
+                    id: "1307x600",
+                    name: "1307x600",
+                    impressions: "2650000",
+                  },
+                  {
+                    id: "480x70",
+                    name: "480x70",
+                    impressions: "2547000",
+                  },
+                  {
+                    id: "320x180",
+                    name: "320x180",
+                    impressions: "2532000",
+                  },
+                ],
+              },
+              {
+                filterType: "CONTENT_VERTICAL",
+                slices: [
+                  {
+                    id: "13",
+                    name: "Internet & Telecom",
+                    impressions: "79600000",
+                  },
+                  {
+                    id: "8",
+                    name: "Games",
+                    impressions: "57760000",
+                  },
+                  {
+                    id: "5",
+                    name: "Computers & Electronics",
+                    impressions: "14290000",
+                  },
+                  {
+                    id: "16",
+                    name: "News",
+                    impressions: "10220000",
+                  },
+                  {
+                    id: "3",
+                    name: "Arts & Entertainment",
+                    impressions: "9585000",
+                  },
+                  {
+                    id: "14",
+                    name: "People & Society",
+                    impressions: "8494000",
+                  },
+                  {
+                    id: "20",
+                    name: "Sports",
+                    impressions: "4640000",
+                  },
+                  {
+                    id: "19",
+                    name: "Law & Government",
+                    impressions: "4406000",
+                  },
+                  {
+                    id: "533",
+                    name: "Reference",
+                    impressions: "4248000",
+                  },
+                  {
+                    id: "12",
+                    name: "Business & Industrial",
+                    impressions: "2398000",
+                  },
+                  {
+                    id: "22",
+                    name: "Books & Literature",
+                    impressions: "1659000",
+                  },
+                  {
+                    id: "299",
+                    name: "Online Communities",
+                    impressions: "1630000",
+                  },
+                  {
+                    id: "7",
+                    name: "Finance",
+                    impressions: "1216000",
+                  },
+                  {
+                    id: "18",
+                    name: "Shopping",
+                    impressions: "1163000",
+                  },
+                  {
+                    id: "958",
+                    name: "Jobs & Education",
+                    impressions: "1135000",
+                  },
+                  {
+                    id: "65",
+                    name: "Hobbies & Leisure",
+                    impressions: "911000",
+                  },
+                  {
+                    id: "45",
+                    name: "Health",
+                    impressions: "879000",
+                  },
+                  {
+                    id: "44",
+                    name: "Beauty & Fitness",
+                    impressions: "512000",
+                  },
+                  {
+                    id: "29",
+                    name: "Real Estate",
+                    impressions: "495000",
+                  },
+                ],
+              },
+              {
+                filterType: "REQUEST_FORMAT",
+                slices: [
+                  {
+                    id: "1",
+                    name: "Display",
+                    impressions: "58890000",
+                  },
+                  {
+                    id: "2",
+                    name: "Video",
+                    impressions: "35600000",
+                  },
+                ],
+              },
+            ],
           },
           {
             id: "6",
             name: "Connected TV",
-            impressions: "3065000",
+            impressions: "2832000",
+            uniqueUsers: "54000",
+            breakdowns: [
+              {
+                filterType: "INVENTORY_SIZE",
+                slices: [
+                  {
+                    id: "300x250",
+                    name: "300x250",
+                    impressions: "689000",
+                  },
+                  {
+                    id: "native",
+                    name: "native",
+                    impressions: "604000",
+                  },
+                  {
+                    id: "1920x1080",
+                    name: "1920x1080",
+                    impressions: "581000",
+                  },
+                  {
+                    id: "250x250",
+                    name: "250x250",
+                    impressions: "553000",
+                  },
+                  {
+                    id: "interstitial",
+                    name: "interstitial",
+                    impressions: "426000",
+                  },
+                  {
+                    id: "320x50",
+                    name: "320x50",
+                    impressions: "422000",
+                  },
+                  {
+                    id: "300x600",
+                    name: "300x600",
+                    impressions: "334000",
+                  },
+                  {
+                    id: "728x90",
+                    name: "728x90",
+                    impressions: "283000",
+                  },
+                  {
+                    id: "160x600",
+                    name: "160x600",
+                    impressions: "279000",
+                  },
+                  {
+                    id: "300x50",
+                    name: "300x50",
+                    impressions: "257000",
+                  },
+                  {
+                    id: "336x280",
+                    name: "336x280",
+                    impressions: "237000",
+                  },
+                  {
+                    id: "200x200",
+                    name: "200x200",
+                    impressions: "234000",
+                  },
+                  {
+                    id: "320x100",
+                    name: "320x100",
+                    impressions: "185000",
+                  },
+                  {
+                    id: "120x600",
+                    name: "120x600",
+                    impressions: "167000",
+                  },
+                  {
+                    id: "320x480",
+                    name: "320x480",
+                    impressions: "164000",
+                  },
+                  {
+                    id: "250x360",
+                    name: "250x360",
+                    impressions: "146000",
+                  },
+                  {
+                    id: "200x446",
+                    name: "200x446",
+                    impressions: "146000",
+                  },
+                  {
+                    id: "240x400",
+                    name: "240x400",
+                    impressions: "146000",
+                  },
+                  {
+                    id: "300x100",
+                    name: "300x100",
+                    impressions: "143000",
+                  },
+                  {
+                    id: "300x75",
+                    name: "300x75",
+                    impressions: "107000",
+                  },
+                ],
+              },
+              {
+                filterType: "CONTENT_VERTICAL",
+                slices: [
+                  {
+                    id: "3",
+                    name: "Arts & Entertainment",
+                    impressions: "1269000",
+                  },
+                  {
+                    id: "13",
+                    name: "Internet & Telecom",
+                    impressions: "783000",
+                  },
+                  {
+                    id: "8",
+                    name: "Games",
+                    impressions: "720000",
+                  },
+                  {
+                    id: "16",
+                    name: "News",
+                    impressions: "530000",
+                  },
+                  {
+                    id: "5",
+                    name: "Computers & Electronics",
+                    impressions: "476000",
+                  },
+                  {
+                    id: "20",
+                    name: "Sports",
+                    impressions: "278000",
+                  },
+                  {
+                    id: "12",
+                    name: "Business & Industrial",
+                    impressions: "275000",
+                  },
+                  {
+                    id: "14",
+                    name: "People & Society",
+                    impressions: "265000",
+                  },
+                  {
+                    id: "18",
+                    name: "Shopping",
+                    impressions: "214000",
+                  },
+                  {
+                    id: "299",
+                    name: "Online Communities",
+                    impressions: "149000",
+                  },
+                  {
+                    id: "22",
+                    name: "Books & Literature",
+                    impressions: "129000",
+                  },
+                  {
+                    id: "533",
+                    name: "Reference",
+                    impressions: "128000",
+                  },
+                  {
+                    id: "65",
+                    name: "Hobbies & Leisure",
+                    impressions: "87000",
+                  },
+                  {
+                    id: "958",
+                    name: "Jobs & Education",
+                    impressions: "84000",
+                  },
+                  {
+                    id: "7",
+                    name: "Finance",
+                    impressions: "77000",
+                  },
+                  {
+                    id: "19",
+                    name: "Law & Government",
+                    impressions: "48000",
+                  },
+                  {
+                    id: "174",
+                    name: "Science",
+                    impressions: "34000",
+                  },
+                  {
+                    id: "45",
+                    name: "Health",
+                    impressions: "25000",
+                  },
+                  {
+                    id: "44",
+                    name: "Beauty & Fitness",
+                    impressions: "16000",
+                  },
+                ],
+              },
+              {
+                filterType: "REQUEST_FORMAT",
+                slices: [
+                  {
+                    id: "1",
+                    name: "Display",
+                    impressions: "2303000",
+                  },
+                  {
+                    id: "2",
+                    name: "Video",
+                    impressions: "890000",
+                  },
+                ],
+              },
+            ],
           },
         ],
       },
