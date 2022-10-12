@@ -7295,13 +7295,258 @@ export default {
           {
             id: "8",
             name: "Games",
-            impressions: "660400000",
+            impressions: "657200000",
+            uniqueUsers: "9389000",
+            breakdowns:[
+              {
+                "filterType": "INVENTORY_SIZE",
+                "slices": [
+                  {
+                    "id": "320x50",
+                    "name": "320x50",
+                    "impressions": "220100000"
+                  },
+                  {
+                    "id": "interstitial",
+                    "name": "interstitial",
+                    "impressions": "208400000"
+                  },
+                  {
+                    "id": "300x50",
+                    "name": "300x50",
+                    "impressions": "145900000"
+                  },
+                  {
+                    "id": "300x250",
+                    "name": "300x250",
+                    "impressions": "124600000"
+                  },
+                  {
+                    "id": "336x280",
+                    "name": "336x280",
+                    "impressions": "89760000"
+                  },
+                  {
+                    "id": "250x250",
+                    "name": "250x250",
+                    "impressions": "75940000"
+                  },
+                  {
+                    "id": "native",
+                    "name": "native",
+                    "impressions": "70610000"
+                  },
+                  {
+                    "id": "234x60",
+                    "name": "234x60",
+                    "impressions": "66820000"
+                  },
+                  {
+                    "id": "360x56",
+                    "name": "360x56",
+                    "impressions": "47850000"
+                  },
+                  {
+                    "id": "200x200",
+                    "name": "200x200",
+                    "impressions": "42880000"
+                  },
+                  {
+                    "id": "216x54",
+                    "name": "216x54",
+                    "impressions": "42110000"
+                  },
+                  {
+                    "id": "300x31",
+                    "name": "300x31",
+                    "impressions": "39500000"
+                  },
+                  {
+                    "id": "292x30",
+                    "name": "292x30",
+                    "impressions": "39480000"
+                  },
+                  {
+                    "id": "88x31",
+                    "name": "88x31",
+                    "impressions": "38410000"
+                  },
+                  {
+                    "id": "400x333",
+                    "name": "400x333",
+                    "impressions": "37300000"
+                  },
+                  {
+                    "id": "305x64",
+                    "name": "305x64",
+                    "impressions": "29870000"
+                  },
+                  {
+                    "id": "300x600",
+                    "name": "300x600",
+                    "impressions": "27780000"
+                  },
+                  {
+                    "id": "728x90",
+                    "name": "728x90",
+                    "impressions": "25990000"
+                  },
+                  {
+                    "id": "320x480",
+                    "name": "320x480",
+                    "impressions": "25730000"
+                  },
+                  {
+                    "id": "160x600",
+                    "name": "160x600",
+                    "impressions": "24540000"
+                  }
+                ]
+              },
+              {
+                "filterType": "REQUEST_FORMAT",
+                "slices": [
+                  {
+                    "id": "1",
+                    "name": "Display",
+                    "impressions": "457400000"
+                  },
+                  {
+                    "id": "2",
+                    "name": "Video",
+                    "impressions": "243800000"
+                  }
+                ]
+              },
+            ]
           },
           {
             id: "19",
             name: "Law & Government",
             impressions: "611300000",
             uniqueUsers: "10930000",
+            breakdowns:[
+              {
+                "filterType": "INVENTORY_SIZE",
+                "slices": [
+                  {
+                    "id": "300x250",
+                    "name": "300x250",
+                    "impressions": "193500000"
+                  },
+                  {
+                    "id": "320x180",
+                    "name": "320x180",
+                    "impressions": "161000000"
+                  },
+                  {
+                    "id": "300x50",
+                    "name": "300x50",
+                    "impressions": "140200000"
+                  },
+                  {
+                    "id": "320x50",
+                    "name": "320x50",
+                    "impressions": "135300000"
+                  },
+                  {
+                    "id": "250x250",
+                    "name": "250x250",
+                    "impressions": "122800000"
+                  },
+                  {
+                    "id": "336x280",
+                    "name": "336x280",
+                    "impressions": "112300000"
+                  },
+                  {
+                    "id": "300x100",
+                    "name": "300x100",
+                    "impressions": "84610000"
+                  },
+                  {
+                    "id": "320x100",
+                    "name": "320x100",
+                    "impressions": "79300000"
+                  },
+                  {
+                    "id": "464x261",
+                    "name": "464x261",
+                    "impressions": "74850000"
+                  },
+                  {
+                    "id": "234x60",
+                    "name": "234x60",
+                    "impressions": "72500000"
+                  },
+                  {
+                    "id": "200x200",
+                    "name": "200x200",
+                    "impressions": "69180000"
+                  },
+                  {
+                    "id": "native",
+                    "name": "native",
+                    "impressions": "66080000"
+                  },
+                  {
+                    "id": "180x150",
+                    "name": "180x150",
+                    "impressions": "46750000"
+                  },
+                  {
+                    "id": "213x120",
+                    "name": "213x120",
+                    "impressions": "35360000"
+                  },
+                  {
+                    "id": "240x133",
+                    "name": "240x133",
+                    "impressions": "28410000"
+                  },
+                  {
+                    "id": "360x300",
+                    "name": "360x300",
+                    "impressions": "27800000"
+                  },
+                  {
+                    "id": "220x90",
+                    "name": "220x90",
+                    "impressions": "27020000"
+                  },
+                  {
+                    "id": "320x480",
+                    "name": "320x480",
+                    "impressions": "20600000"
+                  },
+                  {
+                    "id": "728x90",
+                    "name": "728x90",
+                    "impressions": "19740000"
+                  },
+                  {
+                    "id": "120x240",
+                    "name": "120x240",
+                    "impressions": "18940000"
+                  }
+                ]
+              },
+              {
+                "filterType": "REQUEST_FORMAT",
+                "slices": [
+                  {
+                    "id": "2",
+                    "name": "Video",
+                    "impressions": "469400000"
+                  },
+                  {
+                    "id": "1",
+                    "name": "Display",
+                    "impressions": "277700000"
+                  }
+                ]
+              }
+            ]
           },
           {
             id: "20",

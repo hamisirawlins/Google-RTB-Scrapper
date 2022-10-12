@@ -1,6 +1,7 @@
 import DataCapsule from "../models/data.js"
 import fs from "fs";
 import kenya_data from "./../assets/kenya_data.js";
+import inter_data from "./../assets/inter_data.js";
 
 //Scrapper Imports
 import puppeteer from "puppeteer";
@@ -277,4 +278,8 @@ export const createKenyaData = async (req, res) => {
 
 export const getForecastKenya = async (req, res) => {
     res.json(kenya_data)
+}
+
+export const getCountries = async (req, res) =>{
+    res.json(inter_data.forecast.breakdowns[0])
 }

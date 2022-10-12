@@ -1,5 +1,5 @@
 import express from "express";
-import { getInternationalData, getKenyaData, createData, createKenyaData, getForecastKenya } from "../controllers/data.js";
+import { getInternationalData, getKenyaData, createData, createKenyaData, getForecastKenya, getCountries } from "../controllers/data.js";
 
 const router = express.Router();
 
@@ -7,6 +7,7 @@ const router = express.Router();
 router.get('/int_data', getInternationalData);
 router.get('/kenya_data', getKenyaData);
 router.get('/kenya_forecast', getForecastKenya);
+router.get('/countries', getCountries);
 
 //Run Scrappers
 router.get('/run_scrapper', createData);
